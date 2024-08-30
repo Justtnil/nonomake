@@ -27,3 +27,8 @@ void loop() {
   // Wait for a bit to keep serial data from saturating
   delay(1);
 }
+//SDN_bar Null
+//L0+ 10
+//L0- 11
+//OUTPUT A0
+//3V3 3.3
